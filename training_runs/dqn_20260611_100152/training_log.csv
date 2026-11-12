@@ -1,0 +1,1 @@
+timestamp,episode,global_step,episode_steps,episode_reward,epsilon,avg_loss,replay_size,x_pos,score,coins,x_reward,score_reward,coin_reward,death_penalty,finish_bonus,dead,finished,model_path

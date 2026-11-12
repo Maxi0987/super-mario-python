@@ -1,0 +1,5 @@
+timestamp,episode,global_step,episode_steps,episode_reward,epsilon,avg_loss,replay_size,x_pos,score,coins,x_reward,score_reward,coin_reward,death_penalty,finish_bonus,dead,finished,model_path
+2026-06-11T09:59:45,1,155,155,2003.81,0.998528,0.0,155,841.0,1000,8,6.0,0.0,0.0,-25.0,0.0,True,False,
+2026-06-11T09:59:51,2,282,127,1467.15,0.997321,0.0,282,585.0,200,1,6.0,0.0,0.0,-25.0,0.0,True,False,
+2026-06-11T10:00:39,3,1402,1120,6518.11,0.986681,0.0,1402,1545.0,22900,11,0.0,0.0,0.0,-25.0,0.0,True,False,
+2026-06-11T10:01:23,4,2368,966,6473.79,0.977504,6.222831,2368,1558.0,14400,9,4.0,0.0,0.0,-25.0,0.0,True,False,
